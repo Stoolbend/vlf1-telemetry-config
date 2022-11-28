@@ -1,0 +1,48 @@
+# Copy these into a driver_racenumber_map.csv file,
+# and put that file to the settings directory 
+# This will change the names and TLAs of the drivers based on race number.
+# If same recenumber is added twice, only the last will be used.
+# --------------------------
+rNum,name,TLA
+
+# VL F1 Season 6 - Updated 27/11/2922
+2,Salty Gaben,SAL
+8,Blazehomewrecker,BLA
+12,Somtha,SOM
+13,Law Guldlok,LAW
+20,Tarachi,TAR
+21,Bry,BRY
+23,Impress,IMP
+24,Tezzy,TEZ
+25,Hodg5on,HOD
+26,Wilder,WIL
+27,Makkaa,MAK
+28,Monty,MON
+29,Dan,DAN
+32,Cally,CAL
+34,Ruunas,RUU
+36,Mancho,MAN
+39,Roraldinho,ROR
+40,Crispy,CRI
+41,Zydokz,ZYD
+42,ShadowHopper,SHA
+43,Scott,SCO
+45,Myphei,MYP
+46,Ikaruis,IKA
+57,Travisty,TRA
+60,BlueberryHaze,BLU
+66,CharmanderNerd,CHA
+69,Kradden,KRA
+72,Nawor,NAW
+75,Fabs,FAB
+76,Glen,GLE
+80,Rocc,ROC
+85,Dormin,DOR
+87,copyrofire,COP
+88,Karm,KAR
+89,Sunni,SUN
+90,Franklin,FRA
+91,Envy,ENV
+95,Flyer,FLY
+96,Stoolbend,STO
+98,Carlos Spicyweiner,CAR
